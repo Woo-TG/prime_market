@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225020428722",
+    "project_id": "primec-market",
+    "storage_bucket": "primec-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225020428722:android:f90e6596dc2882498e64ab",
+        "android_client_info": {
+          "package_name": "com.example.primec_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225020428722-tu03v6tac6s1gtfmk25k2v4bb40aaldk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJBnXiXARO9k61oUGLouzdU8xmlnMr0rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225020428722-tu03v6tac6s1gtfmk25k2v4bb40aaldk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
